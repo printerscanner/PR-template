@@ -16,7 +16,7 @@
 > Check what applies to let the reviewer know what to look for. 
 
 
-### Testing
+### Tested on 
 
 - [ ] Chrome
 - [ ] Edge
